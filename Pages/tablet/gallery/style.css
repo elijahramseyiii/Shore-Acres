@@ -1,0 +1,129 @@
+
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}.dmMobileBody .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}.dmDesktopBody .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}#dm [data-show-on-page-only]{display:none!important}
+
+
+    
+
+
+@font-face {
+  font-family: "MoonTime-Regular";
+  src: url("/Resources/files/MoonTime-Regular-331e_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+img[width][height] {height: auto;}
+
+    body[data-page-alias="gallery"] #dm [data-show-on-page-only="gallery"]{
+        display: block !important;
+    }
+
+
+
+
+    
+
+
+    
+
+
+
+
+    *#dm *.dmBody *.u_1005720879 {
+ background-image: url("/Resources/images/snow_actiity-1000x667-1280w.jpg") !important;
+ }
+*#dm *.dmBody *.u_1388704865 {
+ background-image: url("/Resources/images/animal2-1000x667-1280w.jpg") !important;
+ }
+*#dm *.dmBody *.u_1571881100 {
+ background-image: url("/Resources/images/animal_1-1000x662-1280w.jpg") !important;
+ }
+*#dm *.dmBody *.u_1674719900 {
+ background-image: url("/Resources/images/mountain_image8-1000x1000-1280w.jpg") !important;
+ }
+*#dm *.dmBody *.u_1778981348 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1131594034 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1951098554 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1488627541 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1126683900 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1349591516 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1167943929 {
+ background-image: url("/Resources/files/mountain_image10-1920x1080") !important;
+ background-position: 50% 50% !important;
+ }
+*#dm *.dmBody *.u_1969534870 {
+ background-image: url("/Resources/images/horse_s-1000x1500-1280w.jpg") !important;
+ background-position: 50% 50% !important;
+ }
+*#dm *.dmBody *.u_1357493558 {
+ background-image: url("/Resources/images/mountain_image_sunny_S-1920x1296-1280w.jpg") !important;
+ }
+*#dm *.dmBody *.u_1799228159 {
+ background-image: url("/Resources/images/mountain_background_3S-1920x902-1280w.jpg") !important;
+ }
+*#dm *.dmBody *.u_1927633459 {
+ background-image: url("/Resources/images/mountain_top_S-1000x454-1280w.jpg") !important;
+ background-position: 0% 50% !important;
+ }
+
+
+
+    *#dm *.dmBody *.u_1704362503 *.photoGalleryThumbs {
+ padding: 6px !important;
+ }
+*#dm *.dmBody div.u_1704362503 {
+ float: none !important;
+ top: 0px !important;
+ left: 0 !important;
+ width: 100% !important;
+ position: relative !important;
+ height: auto !important;
+ padding-top: 0px !important;
+ padding-left: 0px !important;
+ padding-bottom: 0px !important;
+ max-width: calc(100% - 0px) !important;
+ padding-right: 0px !important;
+ min-width: 25px !important;
+ text-align: center !important;
+ display: block !important;
+ margin-right: auto !important;
+ margin-top: 0px !important;
+ margin-bottom: 0px !important;
+ lockRatio: true !important;
+ doneDragging: true !important;
+ margin-left: auto !important;
+ }
+*#dm *.dmBody div.u_1165566332 {
+ padding-top: 0px !important;
+ padding-bottom: 0px !important;
+ padding-right: 30px !important;
+ padding-left: 30px !important;
+ }
+
+
+
+        .font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-15, .size-15, .size-15 > font { font-size: 15px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }.font-size-15, .size-15, .size-15 > font { font-size: 15px !important; }.font-size-19, .size-19, .size-19 > font { font-size: 19px !important; }
+    
+
+    
+
+  .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+    visibility: hidden;
+  }
+  .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+    visibility: hidden !important;
+  }
